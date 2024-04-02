@@ -1,0 +1,300 @@
+1	196	49	writer	242	Kolya (1996)	http://us.imdb.com/M/title-exact?Kolya%20(1996)	3	881250949
+2	186	39	executive	302	L.A. Confidential (1997)	http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)	3	891717742
+3	22	25	writer	377	Heavyweights (1994)	http://us.imdb.com/M/title-exact?Heavyweights%20(1994)	1	878887116
+4	244	28	technician	51	Legends of the Fall (1994)	http://us.imdb.com/M/title-exact?Legends%20of%20the%20Fall%20(1994)	2	880606923
+5	166	47	educator	346	Jackie Brown (1997)	http://us.imdb.com/M/title-exact?imdb-title-119396	1	886397596
+6	298	44	executive	474	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963)	4	884182806
+7	115	31	engineer	265	"Hunt for Red October, The (1990)"	http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990)	2	881171488
+8	253	26	librarian	465	"Jungle Book, The (1994)"	"http://us.imdb.com/M/title-exact?Jungle%20Book,%20The%20(1994)"	5	891628467
+9	305	23	programmer	451	Grease (1978)	http://us.imdb.com/M/title-exact?Grease%20(1978)	3	886324817
+10	6	42	executive	86	"Remains of the Day, The (1993)"	"http://us.imdb.com/M/title-exact?Remains%20of%20the%20Day,%20The%20(1993)"	3	883603013
+11	62	27	administrator	257	Men in Black (1997)	http://us.imdb.com/M/title-exact?Men+in+Black+(1997)	2	879372434
+12	286	27	student	1014	Romy and Michele's High School Reunion (1997)	http://us.imdb.com/M/title-exact?Romy%20and%20Michele%27s%20High%20School%20Reunion%20%281997%29	5	879781125
+13	200	40	programmer	222	Star Trek: First Contact (1996)	http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)	5	876042340
+14	210	39	engineer	40	"To Wong Foo, Thanks for Everything! Julie Newmar (1995)"	"http://us.imdb.com/M/title-exact?To%20Wong%20Foo,%20Thanks%20for%20Everything!%20Julie%20Newmar%20(1995)"	3	891035994
+15	224	31	educator	29	Batman Forever (1995)	http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995)	3	888104457
+16	303	19	student	785	Only You (1994)	http://us.imdb.com/M/title-exact?Only%20You%20(1994)	3	879485318
+17	122	32	writer	387	"Age of Innocence, The (1993)"	"http://us.imdb.com/M/title-exact?Age%20of%20Innocence,%20The%20(1993)"	5	879270459
+18	194	38	administrator	274	Sabrina (1995)	http://us.imdb.com/M/title-exact?Sabrina%20(1995)	2	879539794
+19	291	19	student	1042	Just Cause (1995)	http://us.imdb.com/M/title-exact?Just%20Cause%20(1995)	4	874834944
+20	234	60	retired	1184	"Endless Summer 2, The (1994)"	"http://us.imdb.com/M/title-exact?Endless%20Summer%202,%20The%20(1994)"	2	892079237
+21	119	32	programmer	392	"Man Without a Face, The (1993)"	"http://us.imdb.com/M/title-exact?Man%20Without%20a%20Face,%20The%20(1993)"	4	886176814
+22	167	37	other	486	Sabrina (1954)	http://us.imdb.com/M/title-exact?Sabrina%20(1954)	4	892738452
+23	299	29	doctor	144	Die Hard (1988)	http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)	4	877881320
+24	291	19	student	118	Twister (1996)	http://us.imdb.com/M/title-exact?Twister%20(1996)	2	874833878
+25	308	60	retired	1	Toy Story (1995)	http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)	4	887736532
+26	95	31	administrator	546	Broken Arrow (1996)	http://us.imdb.com/M/title-exact?Broken%20Arrow%20(1996)	2	879196566
+27	38	28	other	95	Aladdin (1992)	http://us.imdb.com/M/title-exact?Aladdin%20(1992)	5	892430094
+28	102	38	programmer	768	Casper (1995)	http://us.imdb.com/M/title-exact?Casper%20(1995)	2	883748450
+29	63	31	marketing	277	Restoration (1995)	http://us.imdb.com/M/title-exact?Restoration%20(1995)	4	875747401
+30	160	27	programmer	234	Jaws (1975)	http://us.imdb.com/M/title-exact?Jaws%20(1975)	5	876861185
+31	50	21	writer	246	Chasing Amy (1997)	http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)	3	877052329
+32	301	24	student	98	"Silence of the Lambs, The (1991)"	"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"	4	882075827
+33	225	51	administrator	193	"Right Stuff, The (1983)"	"http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)"	4	879539727
+34	290	40	engineer	88	Sleepless in Seattle (1993)	http://us.imdb.com/M/title-exact?Sleepless%20in%20Seattle%20(1993)	4	880731963
+35	97	43	artist	194	"Sting, The (1973)"	"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"	3	884238860
+36	157	57	engineer	274	Sabrina (1995)	http://us.imdb.com/M/title-exact?Sabrina%20(1995)	4	886890835
+37	181	26	executive	1081	Curdled (1996)	http://us.imdb.com/M/title-exact?Curdled%20(1996)	1	878962623
+38	278	37	librarian	603	Rear Window (1954)	http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)	5	891295330
+39	276	21	student	796	Speechless (1994)	http://us.imdb.com/M/title-exact?Speechless%20(1994)	1	874791932
+40	7	57	administrator	32	Crumb (1994)	http://us.imdb.com/M/title-exact?Crumb%20(1994)	4	891350932
+41	10	53	lawyer	16	French Twist (Gazon maudit) (1995)	http://us.imdb.com/M/title-exact?Gazon%20maudit%20(1995)	4	877888877
+42	284	40	executive	304	Fly Away Home (1996)	http://us.imdb.com/M/title-exact?Fly%20Away%20Home%20(1996)	4	885329322
+43	201	27	writer	979	"Trigger Effect, The (1996)"	"http://us.imdb.com/M/title-exact?Trigger%20Effect,%20The%20(1996)"	2	884114233
+44	276	21	student	564	Tales from the Hood (1995)	http://us.imdb.com/M/title-exact?Tales%20from%20the%20Hood%20(1995)	3	874791805
+45	287	21	salesman	327	Cop Land (1997)	http://us.imdb.com/M/title-exact?Cop+Land+(1997)	5	875333916
+46	246	19	student	201	Evil Dead II (1987)	http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987)	5	884921594
+47	242	33	educator	1137	Beautiful Thing (1996)	http://us.imdb.com/M/title-exact?Beautiful%20Thing%20(1996)	5	879741196
+48	249	25	student	241	"Last of the Mohicans, The (1992)"	"http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)"	5	879641194
+49	99	20	student	4	Get Shorty (1995)	http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995)	5	886519097
+50	178	26	other	332	Kiss the Girls (1997)	http://us.imdb.com/M/title-exact?Kiss+the+Girls+(1997)	3	882823437
+51	251	28	doctor	100	Fargo (1996)	http://us.imdb.com/M/title-exact?Fargo%20(1996)	4	886271884
+52	81	21	student	432	Fantasia (1940)	http://us.imdb.com/M/title-exact?Fantasia%20(1940)	2	876535131
+53	260	40	artist	322	Murder at 1600 (1997)	http://us.imdb.com/M/title-exact?Murder%20at%201600%20(1997)	4	890618898
+54	25	39	engineer	181	Return of the Jedi (1983)	http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)	5	885853415
+55	59	49	educator	196	Dead Poets Society (1989)	http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989)	5	888205088
+56	72	48	administrator	679	Conan the Barbarian (1981)	http://us.imdb.com/M/title-exact?Conan+the+Barbarian+(1981)	2	880037164
+57	87	47	administrator	384	Naked Gun 33 1/3: The Final Insult (1994)	http://us.imdb.com/M/title-exact?Naked%20Gun%2033%201/3:%20The%20Final%20Insult%20(1994)	4	879877127
+58	290	40	engineer	143	"Sound of Music, The (1965)"	"http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)"	5	880474293
+59	42	30	administrator	423	E.T. the Extra-Terrestrial (1982)	http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29	5	881107687
+60	292	35	programmer	515	"Boot, Das (1981)"	"http://us.imdb.com/M/title-exact?Boot,%20Das%20(1981)"	4	881103977
+61	115	31	engineer	20	Angels and Insects (1995)	http://us.imdb.com/M/title-exact?Angels%20and%20Insects%20(1995)	3	881171009
+62	20	42	homemaker	288	Scream (1996)	http://us.imdb.com/M/title-exact?Scream%20(1996)	1	879667584
+63	201	27	writer	219	"Nightmare on Elm Street, A (1984)"	"http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)"	4	884112673
+64	13	47	educator	526	Ben-Hur (1959)	http://us.imdb.com/M/title-exact?Ben-Hur%20(1959)	3	882141053
+65	246	19	student	919	"City of Lost Children, The (1995)"	"http://us.imdb.com/Title?Cit%E9+des+enfants+perdus,+La+(1995)"	4	884920949
+66	138	46	doctor	26	"Brothers McMullen, The (1995)"	"http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)"	5	879024232
+67	167	37	other	232	Young Guns (1988)	http://us.imdb.com/M/title-exact?Young%20Guns%20(1988)	1	892738341
+68	60	50	healthcare	427	To Kill a Mockingbird (1962)	http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)	5	883326620
+69	57	16	none	304	Fly Away Home (1996)	http://us.imdb.com/M/title-exact?Fly%20Away%20Home%20(1996)	5	883698581
+70	223	19	student	274	Sabrina (1995)	http://us.imdb.com/M/title-exact?Sabrina%20(1995)	4	891550094
+71	189	32	artist	512	Wings of Desire (1987)	"http://us.imdb.com/Title?Himmel+%FCber+Berlin,+Der+(1987)"	4	893277702
+72	243	33	educator	15	Mr. Holland's Opus (1995)	http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)	3	879987440
+73	92	32	entertainment	1049	House Arrest (1996)	http://us.imdb.com/Title?House+Arrest+(1996/I)	1	890251826
+74	246	19	student	416	Old Yeller (1957)	http://us.imdb.com/M/title-exact?Old%20Yeller%20(1957)	3	884923047
+75	194	38	administrator	165	Jean de Florette (1986)	http://us.imdb.com/M/title-exact?Jean%20de%20Florette%20(1986)	4	879546723
+76	241	26	student	690	Seven Years in Tibet (1997)	http://us.imdb.com/M/title-exact?Seven+Years+in+Tibet+(1997)	2	887249482
+77	178	26	other	248	Grosse Pointe Blank (1997)	http://us.imdb.com/M/title-exact?Grosse%20Pointe%20Blank%20%281997%29	4	882823954
+78	254	44	educator	1444	That Darn Cat! (1965)	http://us.imdb.com/Title?That+Darn+Cat%21+(1965)	3	886475558
+79	293	24	writer	5	Copycat (1995)	http://us.imdb.com/M/title-exact?Copycat%20(1995)	3	888906576
+80	127	33	none	229	Star Trek III: The Search for Spock (1984)	http://us.imdb.com/M/title-exact?Star%20Trek%20III:%20The%20Search%20for%20Spock%20(1984)	5	884364867
+81	225	51	administrator	237	Jerry Maguire (1996)	http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)	5	879539643
+82	299	29	doctor	229	Star Trek III: The Search for Spock (1984)	http://us.imdb.com/M/title-exact?Star%20Trek%20III:%20The%20Search%20for%20Spock%20(1984)	3	878192429
+83	225	51	administrator	480	North by Northwest (1959)	http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959)	5	879540748
+84	276	21	student	54	Outbreak (1995)	http://us.imdb.com/M/title-exact?Outbreak%20(1995)	3	874791025
+85	291	19	student	144	Die Hard (1988)	http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)	5	874835091
+86	222	29	programmer	366	Dangerous Minds (1995)	http://us.imdb.com/M/title-exact?Dangerous%20Minds%20(1995)	4	878183381
+87	267	23	engineer	518	Miller's Crossing (1990)	http://us.imdb.com/M/title-exact?Miller's%20Crossing%20(1990)	5	878971773
+88	42	30	administrator	403	Batman (1989)	http://us.imdb.com/M/title-exact?Batman%20(1989)	3	881108684
+89	11	39	other	111	"Truth About Cats & Dogs, The (1996)"	"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"	4	891903862
+90	95	31	administrator	625	"Sword in the Stone, The (1963)"	"http://us.imdb.com/M/title-exact?Sword%20in%20the%20Stone,%20The%20(1963)"	4	888954412
+91	8	36	administrator	338	Bean (1997)	http://us.imdb.com/M/title-exact?Bean+(1997)	4	879361873
+92	162	25	artist	25	"Birdcage, The (1996)"	"http://us.imdb.com/M/title-exact?Birdcage,%20The%20(1996)"	4	877635573
+93	87	47	administrator	1016	Con Air (1997)	http://us.imdb.com/M/title-exact?Con%20Air%20%281997%29	4	879876194
+94	279	33	programmer	154	Monty Python's Life of Brian (1979)	http://us.imdb.com/M/title-exact?Life%20of%20Brian%20(1979)	5	875296291
+95	145	31	entertainment	275	Sense and Sensibility (1995)	http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)	2	885557505
+96	119	32	programmer	1153	Backbeat (1993)	http://us.imdb.com/M/title-exact?Backbeat%20(1993)	5	874781198
+97	62	27	administrator	498	"African Queen, The (1951)"	"http://us.imdb.com/M/title-exact?African%20Queen,%20The%20(1951)"	4	879373848
+98	62	27	administrator	382	"Adventures of Priscilla, Queen of the Desert, The (1994)"	"http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)"	3	879375537
+99	28	32	writer	209	This Is Spinal Tap (1984)	http://us.imdb.com/M/title-exact?This%20Is%20Spinal%20Tap%20(1984)	4	881961214
+100	135	23	student	23	Taxi Driver (1976)	http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)	4	879857765
+101	32	28	student	294	Liar Liar (1997)	http://us.imdb.com/Title?Liar+Liar+(1997)	3	883709863
+102	90	60	educator	382	"Adventures of Priscilla, Queen of the Desert, The (1994)"	"http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)"	5	891383835
+103	286	27	student	208	Young Frankenstein (1974)	http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974)	4	877531942
+104	293	24	writer	685	Executive Decision (1996)	http://us.imdb.com/M/title-exact?Executive%20Decision%20(1996)	3	888905170
+105	216	22	engineer	144	Die Hard (1988)	http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)	4	880234639
+106	166	47	educator	328	Conspiracy Theory (1997)	http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)	5	886397722
+107	250	29	executive	496	It's a Wonderful Life (1946)	http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946)	4	878090499
+108	271	51	engineer	132	"Wizard of Oz, The (1939)"	"http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)"	5	885848672
+109	160	27	programmer	174	Raiders of the Lost Ark (1981)	http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)	5	876860807
+110	265	26	executive	118	Twister (1996)	http://us.imdb.com/M/title-exact?Twister%20(1996)	4	875320714
+111	198	21	student	498	"African Queen, The (1951)"	"http://us.imdb.com/M/title-exact?African%20Queen,%20The%20(1951)"	3	884207492
+112	42	30	administrator	96	Terminator 2: Judgment Day (1991)	http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)	5	881107178
+113	168	48	other	151	Willy Wonka and the Chocolate Factory (1971)	http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)	5	884288058
+114	110	19	student	307	"Devil's Advocate, The (1997)"	"http://us.imdb.com/M/title-exact?Devil's+Advocate,+The+(1997)"	4	886987260
+115	58	27	programmer	144	Die Hard (1988)	http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)	4	884304936
+116	90	60	educator	648	"Quiet Man, The (1952)"	"http://us.imdb.com/M/title-exact?Quiet%20Man,%20The%20(1952)"	4	891384754
+117	271	51	engineer	346	Jackie Brown (1997)	http://us.imdb.com/M/title-exact?imdb-title-119396	4	885844430
+118	62	27	administrator	21	Muppet Treasure Island (1996)	http://us.imdb.com/M/title-exact?Muppet%20Treasure%20Island%20(1996)	3	879373460
+119	279	33	programmer	832	Bogus (1996)	http://us.imdb.com/M/title-exact?Bogus%20(1996)	3	881375854
+120	237	49	administrator	514	Annie Hall (1977)	http://us.imdb.com/M/title-exact?Annie%20Hall%20(1977)	4	879376641
+121	94	26	student	789	Swimming with Sharks (1995)	http://us.imdb.com/M/title-exact?Swimming%20with%20Sharks%20(1995)	4	891720887
+122	128	24	marketing	485	My Fair Lady (1964)	http://us.imdb.com/M/title-exact?My%20Fair%20Lady%20(1964)	3	879966895
+123	298	44	executive	317	In the Name of the Father (1993)	http://us.imdb.com/M/title-exact?In%20the%20Name%20of%20the%20Father%20(1993)	4	884182806
+124	44	26	technician	195	"Terminator, The (1984)"	"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)"	5	878347874
+125	264	36	writer	200	"Shining, The (1980)"	"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"	5	886122352
+126	194	38	administrator	385	True Lies (1994)	http://us.imdb.com/M/title-exact?True%20Lies%20(1994)	2	879524643
+127	72	48	administrator	195	"Terminator, The (1984)"	"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)"	5	880037702
+128	222	29	programmer	750	Amistad (1997)	http://us.imdb.com/M/title-exact?imdb-title-118607	5	883815120
+129	250	29	executive	264	Mimic (1997)	http://us.imdb.com/M/title-exact?Mimic+(1997)	3	878089182
+130	41	33	engineer	265	"Hunt for Red October, The (1990)"	http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990)	3	890687042
+131	224	31	educator	245	"Devil's Own, The (1997)"	http://us.imdb.com/M/title-exact?Devil%27s%20Own%2C%20The%20(1997)	3	888082216
+132	82	50	programmer	135	2001: A Space Odyssey (1968)	http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)	3	878769629
+133	262	19	student	1147	My Family (1995)	http://us.imdb.com/M/title-exact?My%20Family%20(1995)	4	879791710
+134	293	24	writer	471	Courage Under Fire (1996)	http://us.imdb.com/M/title-exact?Courage%20Under%20Fire%20(1996)	3	888904884
+135	216	22	engineer	658	Pump Up the Volume (1990)	http://us.imdb.com/M/title-exact?Pump%20Up%20the%20Volume%20(1990)	3	880245029
+136	250	29	executive	140	Homeward Bound: The Incredible Journey (1993)	http://us.imdb.com/M/title-exact?Homeward%20Bound:%20The%20Incredible%20Journey%20(1993)	3	878092059
+137	59	49	educator	23	Taxi Driver (1976)	http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)	5	888205300
+138	286	27	student	379	Tales From the Crypt Presents: Demon Knight (1995)	http://us.imdb.com/M/title-exact?Tales%20From%20the%20Crypt%20Presents:%20Demon%20Knight%20(1995)	5	877533771
+139	244	28	technician	815	One Fine Day (1996)	http://us.imdb.com/M/title-exact?One%20Fine%20Day%20(1996)	4	880605185
+140	7	57	administrator	479	Vertigo (1958)	http://us.imdb.com/M/title-exact?Vertigo%20(1958)	4	891352010
+141	174	30	administrator	368	Bio-Dome (1996)	http://us.imdb.com/M/title-exact?Bio-Dome%20(1996)	1	886434402
+142	87	47	administrator	274	Sabrina (1995)	http://us.imdb.com/M/title-exact?Sabrina%20(1995)	4	879876734
+143	194	38	administrator	1211	Blue Sky (1994)	http://us.imdb.com/M/title-exact?Blue%20Sky%20(1994)	2	879551380
+144	82	50	programmer	1134	Get on the Bus (1996)	http://us.imdb.com/M/title-exact?Get%20on%20the%20Bus%20(1996)	2	884714402
+145	13	47	educator	836	Ninotchka (1939)	http://us.imdb.com/M/title-exact?Ninotchka%20(1939)	2	882139746
+146	13	47	educator	272	Good Will Hunting (1997)	http://us.imdb.com/M/title-exact?imdb-title-119217	4	884538403
+147	244	28	technician	756	Father of the Bride Part II (1995)	http://us.imdb.com/M/title-exact?Father%20of%20the%20Bride%20Part%20II%20(1995)	2	880605157
+148	305	23	programmer	427	To Kill a Mockingbird (1962)	http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)	5	886323090
+149	95	31	administrator	787	Roommates (1995)	http://us.imdb.com/M/title-exact?Roommates%20(1995)	2	888954930
+150	43	29	librarian	14	"Postino, Il (1994)"	"http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)"	2	883955745
+151	299	29	doctor	955	Before Sunrise (1995)	http://us.imdb.com/M/title-exact?Before%20Sunrise%20(1995)	4	889502823
+152	57	16	none	419	Mary Poppins (1964)	http://us.imdb.com/M/title-exact?Mary%20Poppins%20(1964)	3	883698454
+153	84	32	executive	405	Mission: Impossible (1996)	http://us.imdb.com/M/title-exact?Mission:%20Impossible%20(1996)	3	883452363
+154	269	31	librarian	504	Bonnie and Clyde (1967)	http://us.imdb.com/M/title-exact?Bonnie%20and%20Clyde%20(1967)	4	891449922
+155	299	29	doctor	111	"Truth About Cats & Dogs, The (1996)"	"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"	3	877878184
+156	194	38	administrator	466	Red Rock West (1992)	http://us.imdb.com/M/title-exact?Red%20Rock%20West%20(1992)	4	879525876
+157	160	27	programmer	135	2001: A Space Odyssey (1968)	http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)	4	876860807
+158	99	20	student	268	Chasing Amy (1997)	http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)	3	885678247
+159	10	53	lawyer	486	Sabrina (1954)	http://us.imdb.com/M/title-exact?Sabrina%20(1954)	4	877886846
+160	259	21	student	117	"Rock, The (1996)"	"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"	4	874724988
+161	85	51	educator	427	To Kill a Mockingbird (1962)	http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)	3	879456350
+162	303	19	student	919	"City of Lost Children, The (1995)"	"http://us.imdb.com/Title?Cit%E9+des+enfants+perdus,+La+(1995)"	4	879467295
+163	213	33	executive	273	Heat (1995)	http://us.imdb.com/M/title-exact?Heat%20(1995)	5	878870987
+164	121	54	librarian	514	Annie Hall (1977)	http://us.imdb.com/M/title-exact?Annie%20Hall%20(1977)	3	891387947
+165	90	60	educator	98	"Silence of the Lambs, The (1991)"	"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"	5	891383204
+166	49	23	student	559	Interview with the Vampire (1994)	http://us.imdb.com/M/title-exact?Interview%20with%20the%20Vampire%20(1994)	2	888067405
+167	42	30	administrator	794	It Could Happen to You (1994)	http://us.imdb.com/M/title-exact?It%20Could%20Happen%20to%20You%20(1994)	3	881108425
+168	155	32	other	323	Dante's Peak (1997)	http://us.imdb.com/M/title-exact?Dante's%20Peak%20(1997)	2	879371261
+169	68	19	student	117	"Rock, The (1996)"	"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"	4	876973939
+170	172	55	marketing	177	"Good, The Bad and The Ugly, The (1966)"	"http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)"	4	875537965
+171	19	40	librarian	4	Get Shorty (1995)	http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995)	4	885412840
+172	268	24	engineer	231	Batman Returns (1992)	http://us.imdb.com/M/title-exact?Batman%20Returns%20(1992)	4	875744136
+173	5	33	other	2	GoldenEye (1995)	http://us.imdb.com/M/title-exact?GoldenEye%20(1995)	3	875636053
+174	305	23	programmer	117	"Rock, The (1996)"	"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"	2	886324028
+175	44	26	technician	294	Liar Liar (1997)	http://us.imdb.com/Title?Liar+Liar+(1997)	4	883612356
+176	43	29	librarian	137	Big Night (1996)	http://us.imdb.com/M/title-exact?Big%20Night%20(1996)	4	875975656
+177	279	33	programmer	1336	Kazaam (1996)	http://us.imdb.com/M/title-exact?Kazaam%20(1996)	1	875298353
+178	80	34	administrator	466	Red Rock West (1992)	http://us.imdb.com/M/title-exact?Red%20Rock%20West%20(1992)	5	887401701
+179	254	44	educator	164	"Abyss, The (1989)"	"http://us.imdb.com/M/title-exact?Abyss,%20The%20(1989)"	4	886472768
+180	298	44	executive	281	"River Wild, The (1994)"	"http://us.imdb.com/M/title-exact?River%20Wild,%20The%20(1994)"	3	884183336
+181	279	33	programmer	1240	Ghost in the Shell (Kokaku kidotai) (1995)	http://us.imdb.com/M/title-exact?Kokaku%20Kidotai%20(1995)	1	892174404
+182	66	23	student	298	Face/Off (1997)	http://us.imdb.com/M/title-exact?Face/Off+(1997)	4	883601324
+183	18	35	other	443	"Birds, The (1963)"	"http://us.imdb.com/M/title-exact?Birds,%20The%20(1963)"	3	880130193
+184	268	24	engineer	1035	Cool Runnings (1993)	http://us.imdb.com/M/title-exact?Cool%20Runnings%20(1993)	2	875542174
+185	99	20	student	79	"Fugitive, The (1993)"	"http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)"	4	885680138
+186	13	47	educator	98	"Silence of the Lambs, The (1991)"	"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"	4	881515011
+187	26	49	engineer	258	Contact (1997)	http://us.imdb.com/Title?Contact+(1997/I)	3	891347949
+188	7	57	administrator	455	Jackie Chan's First Strike (1996)	http://us.imdb.com/M/title-exact?Police%20Story%204:%20First%20Strike%20(1996)	4	891353086
+189	222	29	programmer	755	Jumanji (1995)	http://us.imdb.com/M/title-exact?Jumanji%20(1995)	4	878183481
+190	200	40	programmer	673	Cape Fear (1962)	http://us.imdb.com/M/title-exact?Cape%20Fear%20(1962)	5	884128554
+191	119	32	programmer	328	Conspiracy Theory (1997)	http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)	4	876923913
+192	213	33	executive	172	"Empire Strikes Back, The (1980)"	"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"	5	878955442
+193	276	21	student	322	Murder at 1600 (1997)	http://us.imdb.com/M/title-exact?Murder%20at%201600%20(1997)	3	874786392
+194	94	26	student	1217	Assassins (1995)	http://us.imdb.com/Title?Assassins+(1995)	3	891723086
+195	130	20	none	379	Tales From the Crypt Presents: Demon Knight (1995)	http://us.imdb.com/M/title-exact?Tales%20From%20the%20Crypt%20Presents:%20Demon%20Knight%20(1995)	4	875801662
+196	38	28	other	328	Conspiracy Theory (1997)	http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)	4	892428688
+197	160	27	programmer	719	Canadian Bacon (1994)	http://us.imdb.com/M/title-exact?Canadian%20Bacon%20(1994)	3	876857977
+198	293	24	writer	1267	Clockers (1995)	http://us.imdb.com/M/title-exact?Clockers%20(1995)	3	888906966
+199	26	49	engineer	930	Chain Reaction (1996)	http://us.imdb.com/M/title-exact?Chain%20Reaction%20(1996)	2	891385985
+200	130	20	none	216	When Harry Met Sally... (1989)	http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989)	4	875216545
+201	92	32	entertainment	1079	Joe's Apartment (1996)	http://us.imdb.com/M/title-exact?Joe's%20Apartment%20(1996)	3	886443455
+202	256	35	none	452	Jaws 2 (1978)	http://us.imdb.com/M/title-exact?Jaws%202%20(1978)	4	882164999
+203	1	24	technician	61	Three Colors: White (1994)	http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Bialy%20(1994)	4	878542420
+204	72	48	administrator	48	Hoop Dreams (1994)	http://us.imdb.com/M/title-exact?Hoop%20Dreams%20(1994)	4	880036718
+205	56	25	librarian	755	Jumanji (1995)	http://us.imdb.com/M/title-exact?Jumanji%20(1995)	3	892910207
+206	13	47	educator	360	Wonderland (1997)	http://us.imdb.com/M/title-exact?Wonderland+(1997)	4	882140926
+207	15	49	educator	405	Mission: Impossible (1996)	http://us.imdb.com/M/title-exact?Mission:%20Impossible%20(1996)	2	879455957
+208	92	32	entertainment	77	"Firm, The (1993)"	"http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)"	3	875654637
+209	207	39	marketing	476	"First Wives Club, The (1996)"	"http://us.imdb.com/M/title-exact?First%20Wives%20Club,%20The%20(1996)"	2	884386343
+210	292	35	programmer	174	Raiders of the Lost Ark (1981)	http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)	5	881105481
+211	232	45	scientist	483	Casablanca (1942)	http://us.imdb.com/M/title-exact?Casablanca%20(1942)	5	888549622
+212	251	28	doctor	748	"Saint, The (1997)"	http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997)	2	886272175
+213	224	31	educator	26	"Brothers McMullen, The (1995)"	"http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)"	3	888104153
+214	181	26	executive	220	"Mirror Has Two Faces, The (1996)"	"http://us.imdb.com/M/title-exact?Mirror%20Has%20Two%20Faces,%20The%20(1996)"	4	878962392
+215	259	21	student	255	My Best Friend's Wedding (1997)	http://us.imdb.com/M/title-exact?My+Best+Friend%27s+Wedding+(1997)	4	874724710
+216	305	23	programmer	471	Courage Under Fire (1996)	http://us.imdb.com/M/title-exact?Courage%20Under%20Fire%20(1996)	4	886323648
+217	52	18	student	280	Up Close and Personal (1996)	http://us.imdb.com/M/title-exact?Up%20Close%20and%20Personal%20(1996)	3	882922806
+218	161	50	lawyer	202	Groundhog Day (1993)	http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)	5	891170769
+219	148	33	engineer	408	"Close Shave, A (1995)"	"http://us.imdb.com/M/title-exact?Close%20Shave,%20A%20(1995)"	5	877399018
+220	125	30	lawyer	235	Mars Attacks! (1996)	http://us.imdb.com/M/title-exact?Mars%20Attacks!%20(1996)	2	892838559
+221	97	43	artist	228	Star Trek: The Wrath of Khan (1982)	http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)	5	884238860
+222	58	27	programmer	1098	Flirting With Disaster (1996)	http://us.imdb.com/M/title-exact?Flirting%20With%20Disaster%20(1996)	4	884304936
+223	83	40	other	234	Jaws (1975)	http://us.imdb.com/M/title-exact?Jaws%20(1975)	4	887665548
+224	90	60	educator	347	Wag the Dog (1997)	http://us.imdb.com/M/title-exact?imdb-title-120885	4	891383319
+225	272	33	scientist	178	12 Angry Men (1957)	http://us.imdb.com/M/title-exact?12%20Angry%20Men%20(1957)	5	879455113
+226	194	38	administrator	181	Return of the Jedi (1983)	http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)	3	879521396
+227	125	30	lawyer	478	"Philadelphia Story, The (1940)"	"http://us.imdb.com/M/title-exact?Philadelphia%20Story,%20The%20(1940)"	4	879454628
+228	110	19	student	688	Leave It to Beaver (1997)	http://us.imdb.com/M/title-exact?Leave+It+To+Beaver+(1997)	1	886987605
+229	299	29	doctor	14	"Postino, Il (1994)"	"http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)"	4	877877775
+230	151	38	administrator	10	Richard III (1995)	http://us.imdb.com/M/title-exact?Richard%20III%20(1995)	5	879524921
+231	269	31	librarian	127	"Godfather, The (1972)"	"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"	4	891446165
+232	6	42	executive	14	"Postino, Il (1994)"	"http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)"	5	883599249
+233	54	22	executive	106	Diabolique (1996)	http://us.imdb.com/M/title-exact?Diabolique%20(1996)	3	880937882
+234	303	19	student	69	Forrest Gump (1994)	http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)	5	879467542
+235	16	21	entertainment	944	Renaissance Man (1994)	http://us.imdb.com/M/title-exact?Renaissance%20Man%20(1994)	1	877727122
+236	301	24	student	790	Tommy Boy (1995)	http://us.imdb.com/M/title-exact?Tommy%20Boy%20(1995)	4	882078621
+237	276	21	student	1091	Pete's Dragon (1977)	http://us.imdb.com/M/title-exact?Pete's%20Dragon%20(1977)	3	874793035
+238	305	23	programmer	214	Pink Floyd - The Wall (1982)	http://us.imdb.com/M/title-exact?Pink%20Floyd%20-%20The%20Wall%20(1982)	2	886323068
+239	194	38	administrator	1028	Grumpier Old Men (1995)	http://us.imdb.com/M/title-exact?Grumpier%20Old%20Men%20(1995)	2	879541148
+240	91	55	marketing	323	Dante's Peak (1997)	http://us.imdb.com/M/title-exact?Dante's%20Peak%20(1997)	2	891438397
+241	87	47	administrator	554	Waterworld (1995)	http://us.imdb.com/M/title-exact?Waterworld%20(1995)	4	879875940
+242	294	34	technician	109	Mystery Science Theater 3000: The Movie (1996)	http://us.imdb.com/M/title-exact?Mystery%20Science%20Theater%203000:%20The%20Movie%20(1996)	4	877819599
+243	286	27	student	171	Delicatessen (1991)	http://us.imdb.com/M/title-exact?Delicatessen%20(1991)	4	877531791
+244	200	40	programmer	318	Schindler's List (1993)	http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)	5	884128458
+245	229	29	librarian	328	Conspiracy Theory (1997)	http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)	1	891632142
+246	178	26	other	568	Speed (1994)	http://us.imdb.com/M/title-exact?Speed%20(1994/I)	4	882826555
+247	303	19	student	842	Pollyanna (1960)	http://us.imdb.com/M/title-exact?Pollyanna%20(1960)	2	879484804
+248	62	27	administrator	65	What's Eating Gilbert Grape (1993)	http://us.imdb.com/M/title-exact?What's%20Eating%20Gilbert%20Grape%20(1993)	4	879374686
+249	207	39	marketing	591	Primal Fear (1996)	http://us.imdb.com/M/title-exact?Primal%20Fear%20(1996)	3	876018608
+250	92	32	entertainment	172	"Empire Strikes Back, The (1980)"	"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"	4	875653271
+251	301	24	student	401	"Brady Bunch Movie, The (1995)"	"http://us.imdb.com/M/title-exact?Brady%20Bunch%20Movie,%20The%20(1995)"	4	882078040
+252	36	19	student	339	Mad City (1997)	http://us.imdb.com/M/title-exact?Mad+City+(1997)	5	882157581
+253	70	27	engineer	746	Real Genius (1985)	http://us.imdb.com/M/title-exact?Real%20Genius%20(1985)	3	884150257
+254	63	31	marketing	242	Kolya (1996)	http://us.imdb.com/M/title-exact?Kolya%20(1996)	3	875747190
+255	28	32	writer	201	Evil Dead II (1987)	http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987)	3	881961671
+256	279	33	programmer	68	"Crow, The (1994)"	"http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)"	4	875307407
+257	250	29	executive	7	Twelve Monkeys (1995)	http://us.imdb.com/M/title-exact?Twelve%20Monkeys%20(1995)	4	878089716
+258	14	45	scientist	98	"Silence of the Lambs, The (1991)"	"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"	3	890881335
+259	299	29	doctor	1018	Tie Me Up! Tie Me Down! (1990)	http://us.imdb.com/Title?%A1%C1tame%21+(1990)	3	889502324
+260	194	38	administrator	54	Outbreak (1995)	http://us.imdb.com/M/title-exact?Outbreak%20(1995)	3	879525876
+261	303	19	student	815	One Fine Day (1996)	http://us.imdb.com/M/title-exact?One%20Fine%20Day%20(1996)	3	879485532
+262	119	32	programmer	237	Jerry Maguire (1996)	http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)	5	874775038
+263	295	31	educator	218	Cape Fear (1991)	http://us.imdb.com/M/title-exact?Cape%20Fear%20(1991)	5	879966498
+264	268	24	engineer	930	Chain Reaction (1996)	http://us.imdb.com/M/title-exact?Chain%20Reaction%20(1996)	2	875742942
+265	268	24	engineer	2	GoldenEye (1995)	http://us.imdb.com/M/title-exact?GoldenEye%20(1995)	2	875744173
+266	66	23	student	258	Contact (1997)	http://us.imdb.com/Title?Contact+(1997/I)	4	883601089
+267	233	38	engineer	202	Groundhog Day (1993)	http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)	5	879394264
+268	83	40	other	623	Angels in the Outfield (1994)	http://us.imdb.com/M/title-exact?Angels%20in%20the%20Outfield%20(1994)	4	880308578
+269	214	26	librarian	334	U Turn (1997)	http://us.imdb.com/Title?U+Turn+(1997)	3	891542540
+270	192	42	educator	476	"First Wives Club, The (1996)"	"http://us.imdb.com/M/title-exact?First%20Wives%20Club,%20The%20(1996)"	2	881368243
+271	100	36	executive	344	"Apostle, The (1997)"	http://us.imdb.com/M/title-exact?imdb-title-118632	4	891374868
+272	268	24	engineer	145	"Lawnmower Man, The (1992)"	"http://us.imdb.com/M/title-exact?Lawnmower%20Man,%20The%20(1992)"	1	875744501
+273	301	24	student	56	Pulp Fiction (1994)	http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)	4	882076587
+274	307	25	student	89	Blade Runner (1982)	http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)	5	879283786
+275	234	60	retired	141	"20,000 Leagues Under the Sea (1954)"	"http://us.imdb.com/M/title-exact?20,000%20Leagues%20Under%20the%20Sea%20(1954)"	3	892334609
+276	83	40	other	576	Cliffhanger (1993)	http://us.imdb.com/M/title-exact?Cliffhanger%20(1993)	4	880308755
+277	181	26	executive	264	Mimic (1997)	http://us.imdb.com/M/title-exact?Mimic+(1997)	2	878961624
+278	297	29	educator	133	Gone with the Wind (1939)	http://us.imdb.com/M/title-exact?Gone%20with%20the%20Wind%20(1939)	4	875240090
+279	38	28	other	153	"Fish Called Wanda, A (1988)"	"http://us.imdb.com/M/title-exact?Fish%20Called%20Wanda,%20A%20(1988)"	5	892430369
+280	7	57	administrator	382	"Adventures of Priscilla, Queen of the Desert, The (1994)"	"http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)"	4	891352093
+281	264	36	writer	813	"Celluloid Closet, The (1995)"	"http://us.imdb.com/M/title-exact?Celluloid%20Closet,%20The%20(1995)"	4	886122952
+282	181	26	executive	872	Love Jones (1997)	http://us.imdb.com/M/title-exact?Love%20Jones%20(1997)	1	878961814
+283	201	27	writer	146	Unhook the Stars (1996)	http://us.imdb.com/M/title-exact?Unhook%20the%20Stars%20(1996)	1	884140579
+284	85	51	educator	507	"Streetcar Named Desire, A (1951)"	"http://us.imdb.com/M/title-exact?Streetcar%20Named%20Desire,%20A%20(1951)"	4	879456199
+285	269	31	librarian	367	Clueless (1995)	http://us.imdb.com/M/title-exact?Clueless%20(1995)	3	891450023
+286	59	49	educator	468	Rudy (1993)	http://us.imdb.com/M/title-exact?Rudy%20(1993)	3	888205855
+287	286	27	student	143	"Sound of Music, The (1965)"	"http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)"	4	889651549
+288	193	29	student	96	Terminator 2: Judgment Day (1991)	http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)	1	889124507
+289	113	47	executive	595	"Fan, The (1996)"	"http://us.imdb.com/M/title-exact?Fan,%20The%20(1996)"	5	875936424
+290	292	35	programmer	11	Seven (Se7en) (1995)	http://us.imdb.com/M/title-exact?Se7en%20(1995)	5	881104093
+291	130	20	none	1014	Romy and Michele's High School Reunion (1997)	http://us.imdb.com/M/title-exact?Romy%20and%20Michele%27s%20High%20School%20Reunion%20%281997%29	3	876250718
+292	275	38	engineer	98	"Silence of the Lambs, The (1991)"	"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"	4	875155140
+293	189	32	artist	520	"Great Escape, The (1963)"	"http://us.imdb.com/M/title-exact?Great%20Escape,%20The%20(1963)"	5	893265380
+294	219	32	programmer	82	Jurassic Park (1993)	http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993)	1	889452455
+295	218	37	administrator	209	This Is Spinal Tap (1984)	http://us.imdb.com/M/title-exact?This%20Is%20Spinal%20Tap%20(1984)	5	877488546
+296	123	48	artist	427	To Kill a Mockingbird (1962)	http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)	3	879873020
+297	119	32	programmer	222	Star Trek: First Contact (1996)	http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)	5	874775311
+298	158	50	educator	177	"Good, The Bad and The Ugly, The (1966)"	"http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)"	4	880134407
+299	222	29	programmer	118	Twister (1996)	http://us.imdb.com/M/title-exact?Twister%20(1996)	4	877563802
+300	302	42	educator	322	Murder at 1600 (1997)	http://us.imdb.com/M/title-exact?Murder%20at%201600%20(1997)	2	879436875
