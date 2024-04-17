@@ -1,4 +1,4 @@
-name: example-environment
+name: datapro311217-env
 channels:
   - conda-forge
 dependencies:
